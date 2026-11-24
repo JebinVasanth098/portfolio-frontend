@@ -8,7 +8,7 @@ export default function Projects() {
   return (
     <section id="work" className="section">
       <div className="wrap">
-        <h2>Work</h2>
+        <h2>Projects</h2>
         <ul className="rows">
           {projects.map((p) => (
             <li key={p.slug} className="row">
