@@ -23,26 +23,26 @@ export const askSuggestions = [
 export const fallbackProjects = [
   {
     slug: 'lorem-ipsum-one',
-    name: 'Lorem ipsum project',
+    name: 'Loading ...',
     summary:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio praesent libero, sed cursus ante dapibus diam.',
-    stack: ['Lorem', 'Ipsum', 'Dolor'],
+      'Loading ...',
+    stack: ['Loading ...', 'Loading ...', 'Loading ...'],
     links: [{ label: 'Source', href: 'https://github.com/your-handle/project-one' }], // TODO
   },
   {
     slug: 'dolor-sit-amet',
-    name: 'Dolor sit amet',
+    name: 'Loading ...',
     summary:
-      'Sed nisi nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum, praesent mauris fusce nec tellus sed augue semper porta.',
-    stack: ['Consectetur', 'Adipiscing'],
+      'Loading ...',
+    stack: ['Loading ...', 'Loading ...'],
     links: [],
   },
   {
     slug: 'consectetur-elit',
-    name: 'Consectetur adipiscing',
+    name: 'Loading ...',
     summary:
-      'Mauris massa vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra.',
-    stack: ['Elit', 'Tempor', 'Magna'],
+      'Loading ...',
+    stack: ['Loading ...', 'Loading ...', 'Loading ...'],
     links: [{ label: 'Source', href: 'https://github.com/your-handle/project-three' }], // TODO
   },
 ];
@@ -50,17 +50,17 @@ export const fallbackProjects = [
 export const fallbackPosts = [
   {
   slug: 'lorem-ipsum-dolor',
-  title: 'Lorem ipsum dolor sit amet',
-  date: '2026-10-10',
-  summary: 'Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.',
-  tags: ['Lorem', 'Ipsum'],
-  readTime: '3 min read',
+  title: 'Loading ...',
+  date: 'Loading ...',
+  summary: 'Loading ...',
+  tags: ['Loading ...', 'Loading ...'],
+  readTime: 'Loading ...',
   body: [
-    { type: 'paragraph', content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.' },
-    { type: 'heading', content: 'Curabitur pretium' },
-    { type: 'paragraph', content: 'Nullam varius, turpis et commodo pharetra, est eros bibendum elit.' },
-    { type: 'list', items: ['Point one', 'Point two'] },
-    { type: 'quote', content: 'Integer in mauris eu nibh euismod gravida.' },
+    { type: 'paragraph', content: 'Loading ...' },
+    { type: 'heading', content: 'Loading ...' },
+    { type: 'paragraph', content: 'Loading ...' },
+    { type: 'list', items: ['Loading ...', 'Loading ...'] },
+    { type: 'quote', content: 'Loading ...' },
   ],
 },
 ];
