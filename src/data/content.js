@@ -5,7 +5,7 @@
 export const profile = {
   name: 'Jebin Vasanth',
   role: 'Software Engineer',
-  headline: 'Building backend systems and solving engineering problems.',
+  headline: 'Software engineer building backend systems and reliable applications.',
   intro: 'Software Engineer at Mastercard, passionate about backend development, system design, and building scalable applications.',
   email: 'jebinvasanth2020@gmail.com',
   links: [
